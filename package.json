@@ -20,7 +20,7 @@
   "author": "Rod Anami <rod.anami@kyndryl.com> (https://github.com/rod4n4m1)",
   "license": "EPL-2.0",
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^0.32.0"
   },
   "engines": {
     "node": ">=12"
